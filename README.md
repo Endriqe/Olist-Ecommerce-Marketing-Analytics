@@ -27,10 +27,11 @@ The analysis addresses the following business questions:
 
 ## 3. Project Structure
 
+```text
 Olist-Project/
 │
 ├── data/
-│   └── Source Excel datasets
+│   └── README.md
 │
 ├── images/
 │   ├── sales_overview.png
@@ -46,6 +47,7 @@ Olist-Project/
 │
 ├── Olist_Ecommerce_Marketing_Analytics.pbix
 └── README.md
+```
 
 ## 4. SQL Analysis
 
